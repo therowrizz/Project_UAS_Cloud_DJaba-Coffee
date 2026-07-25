@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" role="img" aria-labelledby="title desc">
+  <title id="title">D'Jaba Coffee logo</title>
+  <desc id="desc">Coffee cup emblem beside the D'Jaba Coffee name.</desc>
+  <g fill="none" stroke="#f6eadb" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 32h52v20c0 17-11 28-26 28S23 69 23 52V32Z"/>
+    <path d="M75 38h8c18 0 18 27 0 27h-9"/>
+    <path d="M36 20c-8-7 8-11 0-18M55 20c-8-7 8-11 0-18"/>
+  </g>
+  <text x="103" y="48" fill="#f6eadb" font-family="Georgia, serif" font-size="31" font-weight="700">D'Jaba</text>
+  <text x="105" y="70" fill="#c98d5b" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="4">COFFEE</text>
+</svg>
